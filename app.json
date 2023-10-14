@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "repository": "niku yenduku ra",
+  "logo": "ledu beyy",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1077880102"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -62,7 +62,7 @@
   },
   "buildpacks": [
     {
-      "url": "heroku/python"
+      "url": "ledu raa"
     }
   ],
   "formation": {
